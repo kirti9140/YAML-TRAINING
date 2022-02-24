@@ -1,0 +1,50 @@
+---
+
+    TRI Service-Information :
+        Name : Indian Air Force(IAF)
+        Chief : Air Marshal V R Chaudhri
+        Headquarter : New Delhi
+        Head : President of India
+        Motto : Touch The Sky With Glory
+
+        Name : Indian Army
+        Chief : General Manoj Mukund Narvane
+        Headquarter : New Delhi
+        Head : President of India
+        Motto : Service Before Self
+
+        Name : Indian Navy
+        Chief : Admiral R Hari Kumar
+        Headquarter : New Delhi
+        Head : President
+        Motto : May the God of occean be Auspicious on us
+
+    Paramilitary Forces :
+        Name : Cental Reserve Police Force(CRPF)
+        Chief : Director General IPS Kuldiep Singh
+        Headquarter : New Delhi
+        Head : Home Minister
+        Motto : Let Brilliance Emerge out of our Endeavours
+        
+        Name : Border Security Forces(BSF)
+        Chief : Director General IPS Pankaj Kumar Singh
+        Headquarter : New Delhi
+        Head : Home Minister
+        Motto : Duty onto Death
+
+        Name : Indo Tibetan Force(ITBP)
+        Chief : Director General IPS Sanjay Arora
+        Headquarter : New Delhi
+        Head : Home Minister
+        Motto : Valour Determination - Devotion to Duty
+
+        Name : Central Industrial Security Force(CISF)
+        Chief : Director General IPS Sheel Vardhan Singh
+        Headquarter : New Delhi
+        Head : Home Minister
+        Motto : Protection and Safety
+
+        
+    # TRI Services : Indian Air Force, Indian Army, Indian Navy
+    # PARAMILITARY Forces : Cental Reserve Police Force(CRPF), Border Security Forces(BSF), Indo Tibetan Force(ITBP), Central Industrial Security Force(CISF)
+...

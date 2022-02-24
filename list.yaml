@@ -1,0 +1,42 @@
+---
+
+    TRI Service-Information :
+        Name : Indian Air Force(IAF)
+        Chief : Air Marshal V R Chaudhri
+        Headquarter : New Delhi
+        Head : President of India
+
+        Name : Indian Army
+        Chief : General Manoj Mukund Narvane
+        Headquarter : New Delhi
+        Head : President of India
+
+        Name : Indian Navy
+        Chief : Admiral R Hari Kumar
+        Headquarter : New Delhi
+        Head : President
+
+    Paramilitary Forces :
+        Name : Cental Reserve Police Force(CRPF)
+        Chief : Director General IPS Kuldiep Singh
+        Headquarter : New Delhi
+        Head : Home Minister
+        
+        Name : Border Security Forces(BSF)
+        Chief : Director General IPS Pankaj Kumar Singh
+        Headquarter : New Delhi
+        Head : Home Minister
+
+        Name : Indo Tibetan Force(ITBP)
+        Chief : Director General IPS Sanjay Arora
+        Headquarter : New Delhi
+        Head : Home Minister
+
+        Name : Central Industrial Security Force(CISF)
+        Chief : Director General IPS Sheel Vardhan Singh
+        Headquarter : New Delhi
+        Head : Home Minister
+    
+    # TRI Services : Indian Air Force, Indian Army, Indian Navy
+    # PARAMILITARY Forces : Cental Reserve Police Force(CRPF), Border Security Forces(BSF), Indo Tibetan Force(ITBP), Central Industrial Security Force(CISF)
+...
